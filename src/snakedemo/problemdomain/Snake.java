@@ -1,6 +1,6 @@
 package snakedemo.problemdomain;
 
-import static snakedemo.userinterface.GamePanel.GAME_UNITS;
+import static snakedemo.constants.GameConstants.GAME_UNITS;
 
 public class Snake {
     final int x[] = new int[GAME_UNITS];
